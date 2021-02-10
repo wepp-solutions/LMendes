@@ -79,7 +79,7 @@ export const SideBar = styled.div`
   top: 0;
   height: 100%;
   width: 100%;
-  background: #201a16;
+  background: #111;
 
   display: flex;
   flex-direction: column;
